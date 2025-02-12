@@ -1,7 +1,6 @@
-package com.awsravi.completablefuture;
+package com.awsravi.completablefuture.com.awsravi.basics;
 
 import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.Executors;
 
 public class SupplyAsyncExample {
     public static void main(String[] args) {

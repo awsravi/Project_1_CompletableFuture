@@ -1,4 +1,4 @@
-package com.awsravi.completablefuture;
+package com.awsravi.completablefuture.com.awsravi.basics;
 
 import com.awsravi.p1.MultiApiDataFetch_CompletableFuture;
 
